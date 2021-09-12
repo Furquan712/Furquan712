@@ -3,8 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=furquan712&label=Profile%20views&color=0e75b6&style=flat" alt="furquan712" /> </p>
 <p align="center"> <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=furquan712" alt="furquan712" /></a> </p>
-
+ 
 - 📫 How to reach me **smfurquan7.12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
