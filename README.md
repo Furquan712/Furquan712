@@ -14,7 +14,7 @@
 
 <p align="left"> <a href="https://twitter.com/syedfurquan712" target="blank"><img src="https://img.shields.io/twitter/follow/syedfurquan712?logo=twitter&style=for-the-badge" alt="syedfurquan712" /></a> </p>
 
-- 🌱 I’m currently persuing BTech Computer Science and Engineering.
+- 🌱 BTech Computer Science and Engineering.
 
 - 👯 I’m looking to collaborate on project related to Web Development and machine Learning.
 
